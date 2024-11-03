@@ -1,0 +1,7 @@
+streamlit
+youtube-transcript-api
+requests
+beautifulsoup4
+openai
+python-dotenv
+lxml[html_clean]
